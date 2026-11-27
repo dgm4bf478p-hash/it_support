@@ -62,5 +62,5 @@ python manage.py runserver
 5. **Deploy** → **Logs** бөлімінен INFO және WARNING жазбаларын тексеріңіз.
 
 ## Сілтемелер
-- GitHub: _<сілтемені қойыңыз>_
-- Render: _<сілтемені қойыңыз>_
+- GitHub: https://github.com/dgm4bf478p-hash/it_support
+- Render: https://it-support-ipr8.onrender.com
